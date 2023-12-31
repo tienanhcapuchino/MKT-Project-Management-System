@@ -1,4 +1,4 @@
-﻿namespace MKTPMS.Domain
+﻿namespace MKTPMS.Domain.Models
 {
     public class Class1
     {
