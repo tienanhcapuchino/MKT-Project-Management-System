@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MKTPMS.Domain\MKTPMS.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
